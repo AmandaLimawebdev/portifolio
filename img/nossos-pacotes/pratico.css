@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  header {
+    background-color: #ee7f7f;
+    color: #fff;
+  }
+  
+  nav {
+    padding: 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    color: #ddd;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    background-color: #eee;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
+  footer {
+    background-color: #ee7f7f;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  footer p {
+    text-align: center;
+  }
